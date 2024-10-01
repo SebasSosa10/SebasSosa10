@@ -10,7 +10,9 @@
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me </h2>
  
 
-My interest in continuing to learn and my willingness to work as a team are aspects that I highlight and a proactive attitude to collaborate in different areas
+I am a software developer specializing in backend development. My main focus is working with technologies such as Java with Spring, Python, JavaScript, MySQL, Linux, and Git. I have gained experience in designing and developing robust and scalable applications, both in enterprise environments and personal projects.
+
+I emphasize my interest in continuous learning and my willingness to work as part of a team, along with a proactive attitude to collaborate in various areas. As a developer, I have developed strong problem analysis skills and have worked with a wide variety of programming languages, tools, and technologies. These aspects highlight my commitment to software development and my ability to adapt to new challenges and work environments. Programming is my passion, and I am always eager to apply my knowledge to create efficient, customer-oriented solutions.
 
 <br>
 
