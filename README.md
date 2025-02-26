@@ -7,7 +7,7 @@
 </p>
 
 
-<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me </h2>
+<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Acerca de </h2>
  
 
 Soy un desarrollador backend especializado en la creación de aplicaciones escalables y de alto rendimiento, implementación y optimización de bases de datos en PostgreSQL, Oracle y SQL Server. Además, cuento con habilidades en desarrollo frontend, lo que me permite colaborar en proyectos full-stack de manera efectiva.
