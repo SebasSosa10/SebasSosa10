@@ -10,9 +10,12 @@
 <h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About me </h2>
  
 
-I am a software developer specializing in backend development. My main focus is working with technologies such as Java with Spring, Python, JavaScript, MySQL, Linux, and Git. I have gained experience in designing and developing robust and scalable applications, both in enterprise environments and personal projects.
+Soy un desarrollador backend especializado en la creación de aplicaciones escalables y de alto rendimiento, implementación y optimización de bases de datos en PostgreSQL, Oracle y SQL Server. Además, cuento con habilidades en desarrollo frontend, lo que me permite colaborar en proyectos full-stack de manera efectiva.
+Mis habilidades técnicas incluyen el dominio de lenguajes como Java, JavaScript, PHP, Python y SQL, así como experiencia en el uso de Docker para implementaciones y Git para el control de versiones. He trabajado en el modelado de bases de datos, diagramación de procesos de negocio y la aplicación de metodologías ágiles (Scrum, Kanban) y tradicionales para garantizar la entrega eficiente de proyectos.
 
-I emphasize my interest in continuous learning and my willingness to work as part of a team, along with a proactive attitude to collaborate in various areas. As a developer, I have developed strong problem analysis skills and have worked with a wide variety of programming languages, tools, and technologies. These aspects highlight my commitment to software development and my ability to adapt to new challenges and work environments. Programming is my passion, and I am always eager to apply my knowledge to create efficient, customer-oriented solutions.
+Además de mis habilidades técnicas, soy competente en sistemas operativos Windows y Linux, redes y comunicación. Mi capacidad para interactuar de manera efectiva con clientes, usuarios y equipos técnicos me ha permitido contribuir significativamente al éxito de proyectos de software, gestión y servicio.
+
+Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades para enfrentar nuevos desafíos tecnológicos.
 
 <br>
 
