@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Sebastian Sosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hola soy Sebastián Sosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -47,7 +47,7 @@ Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades pa
 
 <br><br><br><br><br>
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Let's Connect..!</h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> ¡Conectémonos...! </h2>
 <br>
 <div align='left'>
 <a href="https://www.linkedin.com/in/sebastian-sosa-84099925a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
