@@ -1,4 +1,4 @@
-<h1 align="center"><b> Hola soy Sebastián Sosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi, I'm Sebastián Sosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -7,19 +7,18 @@
 </p>
 
 
-<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Acerca de </h2>
- 
+<h2><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> about me </h2>
 
-Soy un desarrollador backend especializado en la creación de aplicaciones escalables y de alto rendimiento, implementación y optimización de bases de datos en PostgreSQL, Oracle y SQL Server. Además, cuento con habilidades en desarrollo frontend, lo que me permite colaborar en proyectos full-stack de manera efectiva.
-Mis habilidades técnicas incluyen el dominio de lenguajes como Java, JavaScript, PHP, Python y SQL, así como experiencia en el uso de Docker para implementaciones y Git para el control de versiones. He trabajado en el modelado de bases de datos, diagramación de procesos de negocio y la aplicación de metodologías ágiles (Scrum, Kanban) y tradicionales para garantizar la entrega eficiente de proyectos.
+I am a backend developer specialized in creating scalable and high-performance applications, implementing and optimizing databases in PostgreSQL, Oracle and SQL Server. Additionally, I have skills in frontend development, which allows me to collaborate on full-stack projects effectively.
+My technical skills include proficiency in languages ​​such as Java, JavaScript, PHP, Python and SQL, as well as experience using Docker for deployments and Git for version control. I have worked on database modeling, business process diagramming and the application of agile (Scrum, Kanban) and traditional methodologies to ensure efficient project delivery.
 
-Además de mis habilidades técnicas, soy competente en sistemas operativos Windows y Linux, redes y comunicación. Mi capacidad para interactuar de manera efectiva con clientes, usuarios y equipos técnicos me ha permitido contribuir significativamente al éxito de proyectos de software, gestión y servicio.
+In addition to my technical skills, I am proficient in Windows and Linux operating systems, networking and communication. My ability to interact effectively with clients, users and technical teams has allowed me to contribute significantly to the success of software, management and service projects.
 
-Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades para enfrentar nuevos desafíos tecnológicos.
+I am committed to continuous learning and improving my skills to meet new technological challenges.
 
 <br>
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Habilidades </h2>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Skills </h2>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -47,7 +46,7 @@ Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades pa
 
 <br><br><br><br><br>
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> ¡Conectémonos...! </h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Let's connect...! </h2>
 <br>
 <div align='left'>
 <a href="https://www.linkedin.com/in/sebastian-sosa-84099925a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
