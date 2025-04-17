@@ -46,6 +46,9 @@ I am committed to continuous learning and improving my skills to meet new techno
 	<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 	<a><img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/> </a>
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+	<a href="https://www.serverless.com/" target="_blank">
+		<img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+	</a>
 </p>
 
 <br>
@@ -90,6 +93,26 @@ I am committed to continuous learning and improving my skills to meet new techno
 </p>
 
 <p align="center">
+
+<br><br><br>
+
+<h3>📈 Github Statistics</h3>
+
+<a href="https://github.com/SebasSosa10">
+  <img 
+    alt="SebasSosa10's GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=SebasSosa10&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars" 
+    style="max-width: 100%;" 
+  />
+</a>
+
+<a href="https://github.com/SebasSosa10">
+  <img 
+    alt="SebasSosa10's Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasSosa10&layout=compact&text_color=daf7dc&bg_color=151515" 
+    style="max-width: 100%;" 
+  />
+</a>
 
 <br><br><br>
 
