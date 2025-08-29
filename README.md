@@ -1,4 +1,8 @@
-<h1 align="center"><b> Hi, I'm Sebastián Sosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=true&random=false&width=280&higth=50&lines=Hi,++I'm++Sebastian++Sosa)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+<div align="left">
 
 <br>
 
@@ -46,9 +50,12 @@ I am committed to continuous learning and improving my skills to meet new techno
 	<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 	<a><img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/> </a>
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-	<a href="https://www.serverless.com/" target="_blank">
-		<img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
-	</a>
+	<br>
+	<a href="https://www.serverless.com/" target="_blank"><img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/></a>
+	<a><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> </a>
+	<a><img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> </a>
+ 
+ 
 	
 </p>
 
@@ -75,11 +82,12 @@ I am committed to continuous learning and improving my skills to meet new techno
   	<a><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </a>
 	<a><img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/</a>
   	<a><img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white"/></a>
+	<br>
 	<img src="https://raw.githubusercontent.com/spyder-ide/spyder/master/branding/logo/spyder_readme_banner.png" height="30">
   	<a><img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white" style="transform: scale(1.2); margin: 5px;" />
-	<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+	<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </p>
 
 <br>
@@ -92,6 +100,7 @@ I am committed to continuous learning and improving my skills to meet new techno
 	<a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 	<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+
 </p>
 
 <p align="center">
